@@ -1,2 +1,2 @@
 # redzonescript
-Redzone Blip in map 
+Redzone Blip in Map
